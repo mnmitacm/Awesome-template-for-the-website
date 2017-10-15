@@ -19,6 +19,9 @@ This is just a template and it is not the final website. You need to make suitab
 
 
 
-# Update:
+### Update:
 
-A new CSS File has been commited, added Style.css to the repository. 
+A new CSS File, Style.css has been commited to the repository! It has brand new themes.
+
+
+ 
